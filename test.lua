@@ -1,3 +1,8 @@
+--[[
+lua 基础练习
+--]]
+
+
 
 --t
 print("hello world");
@@ -65,6 +70,7 @@ repeat
 	print("a的值为",a)
 	a = a+1
 until(a>15)
+
 
 
 
